@@ -1,0 +1,9 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore faiss index folder
+faiss_index/
+
+# Ignore other unwanted files (optional)
+__pycache__/
+.env
